@@ -111,7 +111,7 @@ So here's the agenda as is:
     - `stderr`=2.
 
     So, if you want to send the input or output or errors to some file silently, you can just make such thing:
-    ```
+    ```Bash
         ls ldeslefk 2> /dev/null
     ```
     - that will redirect the **stderr** messages in black hole(/dev/null).
@@ -148,16 +148,30 @@ So here's the agenda as is:
 
 5. Encryption is a process that converts(hides) data, until u apply a key, e.g. chipher. - **ENCRYPION IS REVERSABLE**
 
-***16.09.25 : ______***
+***16.09.25 : 04:39PM***
 
 ## Commands
 
-1. [ ]  `cut`- 
-2. [ ]  `diff`- 
-3. [ ]  `comm`-
+1. [x]  `cut`- command that allows to output the specified bytes, characters, or fields from file.
+2. [x]  `diff`- shows differences in files, very handy for code.
+3. [x]  `comm`- allows to compare sorted files.
 
 ## TODO
 
-1. [ ] to make the network indoors.
-2. [ ] to install GIMP.
+1. [x] to make the network indoors.
+2. [x] to install GIMP.
 3. [ ] to find out how to make copymanager or wayland.
+
+## Summary 
+
+I haven't cope with third TODO task, but it still good result
+
+***17.09.25 : ______***
+
+## Commands
+
+1. [ ]  `join`-
+
+## Concepts
+
+
