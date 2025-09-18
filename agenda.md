@@ -170,8 +170,38 @@ I haven't cope with third TODO task, but it still good result
 
 ## Commands
 
-1. [ ]  `join`-
+1. [x]  `join`- used to join to files by some criteria, can be used as SQL JOIN.
+2. [x]  `whoami`- useful, simple command to output current user name.
+3. [x]  `id`- tool that helps find out about a user.
+4. [x]  `chmod`- system for user right control.
+
 
 ## Concepts
 
+1. [x] to find out how to make copymanager on wayland.
+2. [x] Read about famous topics (Useless use of Commands)[https://porkmail.org/era/unix/award].
+3. [x] Major/Minor files and devices.
 
+## Summary
+
+1. Major number it is how the driver handles the device.
+2. Minor number it is about instances of specific device. E.g. sda = 0, sda1 = 1.
+
+
+***18.09.25 : ______***
+
+## Commands
+
+1. [ ] `chown`-
+2. [ ] `groups`-
+3. [ ] `ps`-
+4. [ ] `top`-
+5. [ ] `htop`-
+
+## Concepts
+
+1. [ ] To make documentation about python env, and migration.
+2. [ ] Learn git: clone, status, log, commit, add, remote, branch, init.
+3. [ ] (TCP/IP)[https://youtu.be/5VAM2QAGZIc?si=eFzJQTjdFFMwX9e7]. 
+
+## Summary
