@@ -187,21 +187,67 @@ I haven't cope with third TODO task, but it still good result
 1. Major number it is how the driver handles the device.
 2. Minor number it is about instances of specific device. E.g. sda = 0, sda1 = 1.
 
-
-***18.09.25 : ______***
+***19.09.25 : 10:25AM***
 
 ## Commands
 
-1. [ ] `chown`-
-2. [ ] `groups`-
-3. [ ] `ps`-
-4. [ ] `top`-
-5. [ ] `htop`-
+1. [x] `chown`- command that allows to change file owner and group.
+2. [x] `groups`- just prints the groups of specified user.
+3. [x] `ps`- process status, can see all info about process.
 
 ## Concepts
 
-1. [ ] To make documentation about python env, and migration.
-2. [ ] Learn git: clone, status, log, commit, add, remote, branch, init.
-3. [ ] (TCP/IP)[https://youtu.be/5VAM2QAGZIc?si=eFzJQTjdFFMwX9e7]. 
+1. [x] To make documentation about python env, and migration.
+2. [x] Learn git: clone, status, log, commit, add, remote, init.
 
 ## Summary
+
+
+***21.09.25 : 07:45PM***
+
+## Commands
+
+1. [x] `top`- command that used for dynamical processes showing.
+2. [x] `htop`- command that opens interactive `top`.
+
+## Concepts
+
+## Summary
+
+
+
+***23.09.25 : 03:38PM***
+
+
+## Commands
+
+1. [ ] `adduser` - 
+2. [ ] `addgroup` -
+
+## Concepts
+
+1. [x] kibi, mibi, gibi, tebi, pebi vs kilo, mega, giga, tera, peta.
+2. [x] top.c2
+3. [x] (TCP/IP)[https://youtu.be/5VAM2QAGZIc?si=eFzJQTjdFFMwX9e7]. 
+4. [x] To write a script that will append the galias file with all of the commands needed.
+5. [x] Git branch.
+
+## Summary
+
+1. Kibi, mibi... are truly computers values, and one kibibyte = 1024b, one kilobyte = 1000b.(ki[BI] - because binary).
+2. TCP/IP uses 4 layer model(Application, TCP(Transport layer), Network(IP), Link(Network Access Layer)).
+
+***24.09.25 : _______***
+
+
+## Commands
+
+1. [ ] `deluser` - 
+2. [ ] `delgroup` -
+
+
+## Concepts
+
+1. top.3c
+2.
+
